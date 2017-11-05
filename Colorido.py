@@ -1,0 +1,8 @@
+print("\033[1;31;45m Hello Word")
+print("\033[7;30;46m Hello Word \033[m")
+print("\033[7;38;46m Hello Word \033[m")
+print("\033[1;34;43m Hello Word")
+print("\033[4;33;47m Hello Word")
+print("\033[7;30;42m Hello Word \033[m")
+print("\033[4;36;41m Hello Word \033[m")
+print("\033[1;35;40m Hello Word")
